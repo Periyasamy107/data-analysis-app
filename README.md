@@ -6,9 +6,6 @@ The Data Analysis App enables comprehensive analysis of CSV files with ease. It 
 - Generating dataset summaries
 - Handling duplicates and null values effectively
 
-<br>
-<br>
-
 [Click this link to watch it in action.](https://data-analyze-app.streamlit.app/)
 <br>
 To put my project live, much like a website, I utilize Streamlit. Streamlit provides a straightforward and user-friendly platform for seamless data analysis.
