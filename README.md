@@ -1,10 +1,15 @@
-# <ins> Data Analysis App </ins>
-## <ins> Summary of the project : </ins>
-This data analysis project allows us to take the CSV file and perform very basic data analysis, such as examining the top and bottom data, counting the number of rows and columns, obtaining the dataset summary, and removing duplicates and null values. 
-
-[Click this link to watch it in action : ] (https://data-analyze-app.streamlit.app/)
-To put my project live, much like a website, I utilize streamlit. Streamlit is incredibly basic and user-friendly.
-
+# <ins>Data Analysis App</ins>
+## <ins>Summary of the project : </ins>
+The Data Analysis App enables comprehensive analysis of CSV files with ease. It offers essential functionalities including:
+- Exploring top and bottom data entries
+- Counting rows and columns
+- Generating dataset summaries
+- Handling duplicates and null values effectively
+[Click this link to watch it in action.](https://data-analyze-app.streamlit.app/)
+<br>
+To put my project live, much like a website, I utilize Streamlit. Streamlit provides a straightforward and user-friendly platform for seamless data analysis.
+<br>
+<br>
 
 ## <ins> Here are the few screenshot for this project overview : </ins>
 ### <ins> This is the home page : </ins>
