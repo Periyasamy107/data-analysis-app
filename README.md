@@ -8,16 +8,25 @@ To put my project live, much like a website, I utilize streamlit. Streamlit is i
 
 ## Here are the few screenshot for this project overview
 ### This is the home page 
-![Screenshot (250)](https://github.com/Periyasamy107/data-analysis-app/assets/118701561/66e1afd6-5da7-4247-bcb9-32c96a8c5865)
+![Home Page](https://github.com/Periyasamy107/data-analysis-app/assets/118701561/601169d1-3dab-423a-a061-1bb7a60a9383)
+<br>
+<br>
 
 ### Preview of the dataset 
-![Screenshot (251)](https://github.com/Periyasamy107/data-analysis-app/assets/118701561/df130d3e-58a5-4379-ae94-2f68e6214414)
+![Dataset Preview](https://github.com/Periyasamy107/data-analysis-app/assets/118701561/3df341a7-14a2-4b3d-91f4-09375bd362c9)
+<br>
+<br>
 
 ### About the data types 
-![Screenshot (252)](https://github.com/Periyasamy107/data-analysis-app/assets/118701561/c421058c-ace7-4a94-b77f-db451cba2451)
+![Data Types](https://github.com/Periyasamy107/data-analysis-app/assets/118701561/4b40af8f-68b0-458d-a1fa-e5dfd24c359c)
+<br>
+<br>
 
 ### Overall view of this project 
-![Screenshot (253)](https://github.com/Periyasamy107/data-analysis-app/assets/118701561/48e6eabf-2bca-44e7-94a4-c0b071f2f069)
+![Overall view](https://github.com/Periyasamy107/data-analysis-app/assets/118701561/05d29434-1f5f-441d-a0b8-7812c85d623d)
+<br>
+<br>
+
 
 
 
